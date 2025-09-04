@@ -1,0 +1,43 @@
+{
+	"schemaVersion": 1,
+	"id": "lumberjacking",
+	"version": "1.0.1",
+	"name": "Lumberjacking",
+	"description": "a new way of processing logs into planks !",
+	"authors": [
+		"GoatIQ"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/template-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.goatiq.lumberjacking.Lumberjacking"
+		],
+		"fabric-datagen": [
+			"net.goatiq.lumberjacking.DataGenerator"
+		],
+		"client": [
+			"net.goatiq.lumberjacking.Client"
+		],
+		"rei_client": [
+			"net.goatiq.lumberjacking.Compat.REI.ClientREI"
+		]
+	},
+	"mixins": [
+		"lumberjacking.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
