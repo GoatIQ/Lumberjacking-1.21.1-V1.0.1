@@ -1,0 +1,20 @@
+{
+  "type": "lumberjacking:chopping_block",
+  "ingredient":
+  {
+    "item": "minecraft:bamboo_door"
+  },
+  "tool":
+  {
+    "tag": "minecraft:axes"
+  },
+
+  "tool_damage": 1,
+  "chop_amount": 2,
+
+  "result":
+  {
+    "id": "minecraft:bamboo_trapdoor",
+    "count": 2
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "lumberjacking:chopping_block",
+  "ingredient":
+  {
+    "tag": "minecraft:warped_stems"
+  },
+  "tool":
+  {
+    "tag": "minecraft:axes"
+  },
+
+  "tool_damage": 1,
+  "chop_amount": 2,
+
+  "result":
+  {
+    "id": "lumberjacking:warped_plank",
+    "count": 4
+  }
+}

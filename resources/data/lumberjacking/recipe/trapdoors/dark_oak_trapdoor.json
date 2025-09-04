@@ -1,0 +1,20 @@
+{
+  "type": "lumberjacking:chopping_block",
+  "ingredient":
+  {
+    "item": "minecraft:dark_oak_door"
+  },
+  "tool":
+  {
+    "tag": "minecraft:axes"
+  },
+
+  "tool_damage": 1,
+  "chop_amount": 2,
+
+  "result":
+  {
+    "id": "minecraft:dark_oak_trapdoor",
+    "count": 2
+  }
+}

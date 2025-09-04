@@ -1,0 +1,20 @@
+{
+  "type": "lumberjacking:chopping_block",
+  "ingredient":
+  {
+    "tag": "minecraft:bamboo_blocks"
+  },
+  "tool":
+  {
+    "item": "minecraft:flint"
+  },
+
+  "tool_damage": -1,
+  "chop_amount": 4,
+
+  "result":
+  {
+    "id": "lumberjacking:bamboo_plank",
+    "count": 4
+  }
+}

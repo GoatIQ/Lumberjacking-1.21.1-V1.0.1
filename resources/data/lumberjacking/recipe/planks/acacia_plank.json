@@ -1,0 +1,20 @@
+{
+  "type": "lumberjacking:chopping_block",
+  "ingredient":
+  {
+    "tag": "minecraft:acacia_logs"
+  },
+  "tool":
+  {
+    "tag": "minecraft:axes"
+  },
+
+  "tool_damage": 1,
+  "chop_amount": 4,
+
+  "result":
+  {
+    "id": "lumberjacking:acacia_plank",
+    "count": 4
+  }
+}

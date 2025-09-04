@@ -1,0 +1,20 @@
+{
+  "type": "lumberjacking:chopping_block",
+  "ingredient":
+  {
+    "item": "minecraft:acacia_door"
+  },
+  "tool":
+  {
+    "tag": "minecraft:axes"
+  },
+
+  "tool_damage": 1,
+  "chop_amount": 2,
+
+  "result":
+  {
+    "id": "minecraft:acacia_trapdoor",
+    "count": 2
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "lumberjacking:chopping_block",
+  "ingredient":
+  {
+    "tag": "minecraft:jungle_logs"
+  },
+  "tool":
+  {
+    "tag": "minecraft:axes"
+  },
+
+  "tool_damage": 1,
+  "chop_amount": 4,
+
+  "result":
+  {
+    "id": "lumberjacking:jungle_plank",
+    "count": 4
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "lumberjacking:chopping_block",
+  "ingredient":
+  {
+    "tag": "minecraft:crimson_stems"
+  },
+  "tool":
+  {
+    "item": "minecraft:flint"
+  },
+
+  "tool_damage": -1,
+  "chop_amount": 2,
+
+  "result":
+  {
+    "id": "lumberjacking:crimson_plank",
+    "count": 4
+  }
+}
