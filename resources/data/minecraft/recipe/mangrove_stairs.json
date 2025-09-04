@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "A": {
+      "item": "lumberjacking:mangrove_plank"
+    }
+  },
+  "pattern": [
+    "A ",
+    "AA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:mangrove_stairs"
+  }
+}

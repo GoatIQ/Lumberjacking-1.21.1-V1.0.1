@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "A": {
+      "item": "lumberjacking:warped_plank"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "B B",
+    "ABA",
+    "B B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:warped_fence_gate"
+  }
+}

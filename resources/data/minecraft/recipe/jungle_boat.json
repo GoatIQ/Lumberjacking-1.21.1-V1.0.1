@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "A": {
+      "item": "lumberjacking:jungle_plank"
+    },
+    "B": {
+      "item": "minecraft:wooden_shovel"
+    }
+  },
+  "pattern": [
+    "B B",
+    "A A",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:jungle_boat"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "A": {
+      "item": "lumberjacking:dark_oak_plank"
+    },
+    "B": {
+      "item": "minecraft:wooden_shovel"
+    }
+  },
+  "pattern": [
+    "B B",
+    "A A",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:dark_oak_boat"
+  }
+}

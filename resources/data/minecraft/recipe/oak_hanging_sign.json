@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "A": {
+      "item": "lumberjacking:oak_plank"
+    },
+    "B": {
+      "item": "minecraft:chain"
+    }
+  },
+  "pattern": [
+    "B B",
+    "AAA",
+    "AAA"
+  ],
+  "result": {
+    "count": 3,
+    "id": "minecraft:oak_hanging_sign"
+  }
+}
