@@ -1,0 +1,28 @@
+{
+  "block.lumberjacking.oak_chopping_block": "Oak chopping block",
+  "block.lumberjacking.spruce_chopping_block": "Spruce chopping block",
+  "block.lumberjacking.birch_chopping_block": "Birch chopping block",
+  "block.lumberjacking.jungle_chopping_block": "Jungle chopping block",
+  "block.lumberjacking.acacia_chopping_block": "Acacia chopping block",
+  "block.lumberjacking.dark_oak_chopping_block": "Dark oak chopping block",
+  "block.lumberjacking.mangrove_chopping_block": "Mangrove chopping block",
+  "block.lumberjacking.cherry_chopping_block": "Cherry chopping block",
+  "block.lumberjacking.bamboo_chopping_block": "Bamboo chopping block",
+  "block.lumberjacking.crimson_chopping_block": "Crimson chopping block",
+  "block.lumberjacking.warped_chopping_block": "Warped chopping block",
+
+  "item.lumberjacking.oak_plank": "Oak plank",
+  "item.lumberjacking.spruce_plank": "Spruce plank",
+  "item.lumberjacking.birch_plank": "Birch plank",
+  "item.lumberjacking.jungle_plank": "Jungle plank",
+  "item.lumberjacking.acacia_plank": "Acacia plank",
+  "item.lumberjacking.dark_oak_plank": "Dark oak plank",
+  "item.lumberjacking.mangrove_plank": "Mangrove plank",
+  "item.lumberjacking.cherry_plank": "Cherry plank",
+  "item.lumberjacking.bamboo_plank": "Bamboo plank",
+  "item.lumberjacking.crimson_plank": "Crimson plank",
+  "item.lumberjacking.warped_plank": "Warped plank",
+
+  "itemgroup.lumberjacking.group_name": "Lumberjacking"
+
+}

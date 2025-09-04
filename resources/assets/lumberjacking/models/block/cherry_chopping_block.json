@@ -1,0 +1,7 @@
+{
+  "parent": "lumberjacking:block/template_chopping_block",
+  "textures": {
+    "logside": "minecraft:block/cherry_log",
+    "logtop": "minecraft:block/cherry_log_top"
+  }
+}
