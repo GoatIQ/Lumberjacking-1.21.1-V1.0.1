@@ -1,0 +1,7 @@
+{
+  "replace" : false,
+  "values": [
+    "lumberjacking:oak_chopping_block",
+    "minecraft:oak_log"
+  ]
+}

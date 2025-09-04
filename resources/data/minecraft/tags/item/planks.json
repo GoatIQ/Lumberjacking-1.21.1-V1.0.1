@@ -1,0 +1,16 @@
+{
+  "replace": true,
+  "values": [
+    "lumberjacking:oak_plank",
+    "lumberjacking:spruce_plank",
+    "lumberjacking:birch_plank",
+    "lumberjacking:jungle_plank",
+    "lumberjacking:acacia_plank",
+    "lumberjacking:dark_oak_plank",
+    "lumberjacking:crimson_plank",
+    "lumberjacking:warped_plank",
+    "lumberjacking:mangrove_plank",
+    "lumberjacking:bamboo_plank",
+    "lumberjacking:cherry_plank"
+  ]
+}
